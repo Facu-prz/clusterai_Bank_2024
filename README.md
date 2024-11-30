@@ -28,11 +28,11 @@ Este repositorio contiene un análisis exploratorio de datos (EDA) y un pipeline
 - El desbalance inicial de la variable objetivo fue corregido para reducir los falsos negativos, priorizando la identificación correcta de clientes potenciales.
 
 ### **Referencias**
-VanderPlas, J. (n.d.). Python Data Science Handbook. Recuperado de https://jakevdp.github.io/PythonDataScienceHandbook/
-James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: With Applications in R. Recuperado de https://www.statlearning.com/
-Murphy, K. P. (2022). Probabilistic Machine Learning: An Introduction. Recuperado de https://probml.github.io/pml-book/book1.html
-Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. Recuperado de https://www.deeplearningbook.org/
-Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd ed.). New York: Springer.
-Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O'Reilly Media.
-Bishop, C. M. (2006). Pattern Recognition and Machine Learning. New York: Springer.
+- VanderPlas, J. (n.d.). Python Data Science Handbook. Recuperado de https://jakevdp.github.io/PythonDataScienceHandbook/
+- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: With Applications in R. Recuperado de https://www.statlearning.com/
+- Murphy, K. P. (2022). Probabilistic Machine Learning: An Introduction. Recuperado de https://probml.github.io/pml-book/book1.html
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. Recuperado de https://www.deeplearningbook.org/
+- Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2nd ed.). New York: Springer.
+- Géron, A. (2019). Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (2nd ed.). O'Reilly Media.
+- Bishop, C. M. (2006). Pattern Recognition and Machine Learning. New York: Springer.
 
